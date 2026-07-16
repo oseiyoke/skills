@@ -52,3 +52,60 @@ Notice what the example does: one scene (corkboard), every technical element map
 - One unexplained jargon word left standing ("the RLS is off").
 - Cuteness that bends the truth; the analogy serves the facts, never the other way around.
 - A "simple" version longer than the technical one.
+
+## Supporting images
+
+Text is the default. First explain the idea completely using the method above.
+
+After the explanation, briefly ask:
+
+“Would supporting images help?”
+
+When the user says yes, create the visuals directly.
+
+The visual output may be:
+
+- One supporting image.
+- A short sequence of images.
+- An infographic.
+- A carousel.
+
+Choose the format and number of images based on what best explains the idea.
+
+### Build one visual explanation
+
+Use the same everyday analogy as the written explanation. Every image should belong to one consistent physical world.
+
+Each image should communicate one clear part of the idea. Arrange the sequence in the natural order needed to understand it, such as introducing the scene, showing how the pieces relate, demonstrating what happens and revealing the result.
+
+Do not add slides merely to reach a certain number.
+
+### Create one visual world
+
+Keep these choices consistent across the complete visual sequence:
+
+- Aspect ratio.
+- Colour palette.
+- Illustration or photography style.
+- Materials and textures.
+- Lighting and camera perspective.
+- Recurring characters and objects.
+- Text placement and spacing.
+
+The visuals should feel like one continuous explanation, not unrelated images made in different styles.
+
+### Keep the artwork clean
+
+Prefer clear compositions with generous space and few competing objects.
+
+Use short text only when it adds meaning. When possible, create the artwork without text and add the final approved wording separately so spelling and layout remain accurate.
+
+Check every generated word, number and label. Correct any mistakes before presenting the result.
+
+### Preserve the truth
+
+The visuals may be playful, but they must remain technically accurate.
+
+Do not remove an important fact merely because it is difficult to draw. Find a simpler visual way to represent it.
+
+Simplify the picture, never the truth.
