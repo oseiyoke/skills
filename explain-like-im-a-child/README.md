@@ -21,7 +21,7 @@ Your job is to create a personalized copy of the
    Include their preferred analogy worlds, preferred length
    and any styles or analogies they dislike.
 
-5. Install or create the personalized copy as a skill at the broadest account or workspace scope
+5. Create the personalized copy as a skill using the skill creator at the broadest account or workspace scope
    supported by the current platform. Do not install it only inside one
    project or conversation.
 
