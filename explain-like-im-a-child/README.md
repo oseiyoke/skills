@@ -22,19 +22,15 @@ Your job is to create a personalized copy of the
    and any styles or analogies they dislike.
 
 5. Create the personalized copy as a skill using the skill creator at the broadest account or workspace scope
-   supported by the current platform. Do not install it only inside one
-   project or conversation.
+   supported by the current platform. Do not install it only inside one project or conversation. If you are unable to install it for the user, create the file and instruct the user to download and upload it as necessary
 
-6. If the platform supports native Skills, use that feature. If it does not,
-   adapt the essential instructions to the closest account-wide
-   customization feature available.
-
-7. Create the skill file and guide the user to uploading that skill on their account
-8. Test the skill with one real concept and correct any obvious problems.
+6. Create the skill file and guide the user to uploading that skill on their account
+7. Test the skill with one real concept and correct any obvious problems.
 
 Do not rewrite the core skill around the user. Personalize the edges,
 not the method.
 
+----------------------------------------------------------------
 
 Skill information:
 ---
