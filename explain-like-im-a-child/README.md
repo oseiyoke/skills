@@ -29,7 +29,8 @@ Your job is to create a personalized copy of the
    adapt the essential instructions to the closest account-wide
    customization feature available.
 
-7. Test the skill with one real concept and correct any obvious problems.
+7. Create the skill file and guide the user to uploading that skill on their account
+8. Test the skill with one real concept and correct any obvious problems.
 
 Do not rewrite the core skill around the user. Personalize the edges,
 not the method.
@@ -38,7 +39,7 @@ not the method.
 Skill information:
 ---
 name: explain-like-im-a-child
-description: Explain complex technical material the way you would to a smart child, one everyday analogy, simple words, all the substance kept. Use whenever the user asks to explain like a child or like I'm five, says something is too complex or sounding too technical, asks to simplify, break it down, dumb it down, or wants plain English or layman's terms, or reacts to an answer with confusion ("I don't get it", "what does this mean?"). Also use proactively when presenting deeply technical findings (databases, architecture, code internals, security audits) to a non-engineering reader, even if they don't explicitly ask for the simple version.
+description: Explain complex technical material the way you would to a smart child, one everyday analogy, simple words, all the substance kept. Use whenever the user asks to explain something to them or asks to simplify, break it down, dumb it down, or wants plain English or layman's terms, or reacts to an answer with confusion ("I don't get it", "what does this mean?"). Also use proactively when presenting deeply technical findings (databases, architecture, code internals, security audits) to a non-engineering reader, even if they don't explicitly ask for the simple version.
 ---
 
 # Explain like I'm a child
