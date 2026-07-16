@@ -5,7 +5,7 @@ Your job is to create a personalized copy of the
 
 ## Instructions
 
-1. Read `SKILL.md` fully. Preserve its core method and rules.
+1. Read `SKILL.md`(https://github.com/oseiyoke/skills/blob/main/explain-like-im-a-child/SKILL.md) fully. Preserve its core method and rules.
 
 2. Review what you already know about the user. 
 
@@ -21,7 +21,7 @@ Your job is to create a personalized copy of the
    Include their preferred analogy worlds, preferred length
    and any styles or analogies they dislike.
 
-5. Install the personalized copy at the broadest account or workspace scope
+5. Install or create the personalized copy as a skill at the broadest account or workspace scope
    supported by the current platform. Do not install it only inside one
    project or conversation.
 
